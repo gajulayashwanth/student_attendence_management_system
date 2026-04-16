@@ -109,4 +109,4 @@ Ensure the following software is installed on your machine:
 ### 📝 Notes:
 1. Make sure the backend server is running before using the frontend.
 2. Make sure MySQL is running before applying migrations.
-3. If needed, update the frontend API base URL according to your backend server configuration.
+3. If needed update the frontend API base URL according to your backend server configuration.
